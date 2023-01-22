@@ -1,0 +1,6 @@
+torch
+jupyter
+numpy
+numpy
+torchvision
+
